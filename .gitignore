@@ -1,0 +1,17 @@
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.emacs
+.viminfo
+
+*/*
+!test/*
+test/*/*
+!*.c
+# !test/*/*.c
+!*.cpp
+# !test/*/*.cpp
+!*/makefile
+!.gitignore
+

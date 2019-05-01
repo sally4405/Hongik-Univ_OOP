@@ -1,0 +1,11 @@
+// 2. 네임스페이스
+
+#include <iostream>
+using namespace std;
+
+int main(void)
+{
+
+
+ return 0;
+}
