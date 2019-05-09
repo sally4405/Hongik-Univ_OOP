@@ -1,0 +1,5 @@
+[user]
+	name = LEESEEUN
+	email = seeun951129@gmail.com
+[core]
+	askpass = git-gui--askpass
